@@ -67,10 +67,6 @@ pip install requests
 ...
 ```
 
-## 更新日志
-
-- 2024-03-21: 初始版本发布
-
 ## 许可证
 
 MIT © 2024 NDEFL
