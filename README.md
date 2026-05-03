@@ -67,9 +67,6 @@ pip install requests
 ...
 ```
 
-## 许可证
-
-MIT © 2024 NDEFL
 
 ## 常见问题（FAQ）
 
